@@ -1,3 +1,6 @@
 module.exports = {
-  // extends: "stylelint-config-standard-scss",
+  customSyntax: 'postcss-scss',
+  rules: {
+    'color-named': 'never',
+  }
 };
