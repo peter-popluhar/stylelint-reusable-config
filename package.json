@@ -20,10 +20,10 @@
     "url": "https://github.com/peter-popluhar/stylelint-reusable-config/issues"
   },
   "homepage": "https://github.com/peter-popluhar/stylelint-reusable-config#readme",
-  "dependencies": {
-    "postcss-scss": "^4.0.4"
-  },
   "peerDependencies": {
     "stylelint": "^14.7.1"
+  },
+  "dependencies": {
+    "stylelint-config-standard-scss": "^3.0.0"
   }
 }
